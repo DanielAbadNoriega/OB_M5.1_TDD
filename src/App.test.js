@@ -1,6 +1,6 @@
 // Vamos a construir una aplicación de selección y búsqueda de Emisoras de Radio en Streaming
 
-import { cleanup, fireEvent, render, screen } from "@testing-library/react";
+import { fireEvent, render, screen } from "@testing-library/react";
 import "@testing-library/jest-dom";
 import App from "./App";
 
